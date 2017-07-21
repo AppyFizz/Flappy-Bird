@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Thu Jul 20 21:14:37 EDT 2017
+2.base=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\assets\\debug\\bird_0.png
+5.set=ASSET
+3.base=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\assets\\debug
+6.file=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\assets\\debug\\toptube.png
+2.set=ANDROID_RESOURCE
+4.base=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\assets\\debug
+7.file=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=10
+0.file=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+5.base=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\assets\\debug
+8.file=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\assets\\debug\\bird_1.png
+4.set=ASSET
+6.base=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\assets\\debug
+1.file=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\assets\\debug\\bird.atlas
+9.set=ASSET
+9.file=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\assets\\debug\\bottomtube.png
+1.set=ASSET
+7.base=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=ASSET
+0.base=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\assets\\debug
+3.file=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\assets\\debug\\bg.png
+3.set=ASSET
+1.base=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\assets\\debug
+9.base=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\assets\\debug
+4.file=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\assets\\debug\\bird.png
+8.set=ASSET
+0.set=ANDROID_RESOURCE

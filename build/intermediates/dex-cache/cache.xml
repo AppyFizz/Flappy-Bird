@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Code\Android\FlappyBird\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d0efc13b87eaf0d4c3c5474bff74552eb6a3e9a0">
+        <dex dex="D:\Code\Android\FlappyBird\android\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_07503e810748e68fbe31a2472dddae8418973300\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shreyan\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.6\57c2831c870743712b808384187ea856e541878f\gdx-backend-android-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="D:\Code\Android\FlappyBird\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-backend-android-1.9.6_55c4a7befe7267b98840c2d5fb755e996ea0233f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shreyan\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.6\47d1e9b890e364ec28f128e9bb3b9a12a94c164\gdx-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="D:\Code\Android\FlappyBird\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-1.9.6_71240c220ee315b45cd01fbe0ebee34cbb8702e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Shreyan\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.6\c249ef4060a4fada952f278455c8f7b9cba3c18a\gdx-box2d-1.9.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="D:\Code\Android\FlappyBird\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-box2d-1.9.6_704002a0ab2eaa702b58845919e0c130dcb4d916\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code\Android\FlappyBird\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Code\Android\FlappyBird\android\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f9a4a5e696e0b7992e888786b875dc93ab58586e\classes.dex" />
+    </item>
+
+</items>

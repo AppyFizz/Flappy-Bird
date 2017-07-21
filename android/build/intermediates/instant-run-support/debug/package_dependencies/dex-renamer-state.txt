@@ -1,0 +1,10 @@
+#Thu Jul 20 19:49:46 EDT 2017
+renamed.2=classes2.dex
+renamed.1=classes3.dex
+renamed.0=classes.dex
+base.2=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-backend-android-1.9.6_55c4a7befe7267b98840c2d5fb755e996ea0233f
+base.1=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-box2d-1.9.6_704002a0ab2eaa702b58845919e0c130dcb4d916
+base.0=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-1.9.6_71240c220ee315b45cd01fbe0ebee34cbb8702e7
+file.2=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-backend-android-1.9.6_55c4a7befe7267b98840c2d5fb755e996ea0233f\\classes.dex
+file.1=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-box2d-1.9.6_704002a0ab2eaa702b58845919e0c130dcb4d916\\classes.dex
+file.0=D\:\\Code\\Android\\FlappyBird\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-1.9.6_71240c220ee315b45cd01fbe0ebee34cbb8702e7\\classes.dex
